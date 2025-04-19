@@ -32,8 +32,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Ефимов/source/repos/tsenturion/cplus",
-      "program": "c:/Users/Ефимов/source/repos/tsenturion/cplus/build/Debug/outDebug",
+      "cwd": "D:/Git_GitHub/cplus/cplus",
+      "program": "D:/Git_GitHub/cplus/cplus/build/Debug/outDebug.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
