@@ -1,5 +1,18 @@
 /*
-абстракция - Text: SimpleText, TitleText
-реализация - ITextRenderer (render): UppercaseRenderer, LowercaseRenderer
+MenuComponent dispalay
+MenuItem
+MenuGroup
 
+меню:
+    -файл
+        -открыть
+        -сохранить
+        -создать
+    -правка
+        -повторить
+        -отменить
+    -вид
+        -масштабировать
+            -увеличить
+            -уменьшить
 */
