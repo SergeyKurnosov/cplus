@@ -1,18 +1,7 @@
-/*
-MenuComponent dispalay
-MenuItem
-MenuGroup
-
-меню:
-    -файл
-        -открыть
-        -сохранить
-        -создать
-    -правка
-        -повторить
-        -отменить
-    -вид
-        -масштабировать
-            -увеличить
-            -уменьшить
-*/
+/**
+Message getText()
+SimpleMessage()
+MessageDecorator shared_ptr
+LetterDecorator 'LOG: '
+EncryptDecorator '*'
+ */
