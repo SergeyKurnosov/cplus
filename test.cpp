@@ -1,7 +1,9 @@
-/**
-Message getText()
-SimpleMessage()
-MessageDecorator shared_ptr
-LetterDecorator 'LOG: '
-EncryptDecorator '*'
- */
+/*
+список строк
+    заглавные символы
+    одну цифру
+    имеют длину больше N = 5
+
+FilterStrategy
+FilterContext
+*/
